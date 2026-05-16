@@ -178,7 +178,7 @@ Open the notebook directly in Colab and run all cells.
 **Option 2 — Local**
 
 ```bash
-git clone https://github.com/venkatasriharika-code/movie-recommendation-system.git
+git clone https://github.com/venkatasriharika-code/movie_recommendation_system.git
 cd movie-recommendation-system
 
 pip install numpy pandas scikit-learn matplotlib seaborn
