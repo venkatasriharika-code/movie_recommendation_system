@@ -9,7 +9,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2.2-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NLP](https://img.shields.io/badge/TF--IDF-NLP-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Internship](https://img.shields.io/badge/Horizon%20Intern-Batch%20115-8A2BE2?style=for-the-badge)
 
 **A dual-algorithm Movie Recommendation System built with Content-Based Filtering and Collaborative Filtering — recommending movies from a catalogue of 25 titles across 129 user ratings using TF-IDF vectorization and cosine similarity.**
 
@@ -222,7 +221,6 @@ movie-recommendation-system/
 
 **Venkata Sriharika Prathipati**
 
-Machine Learning Intern — Horizon Intern | Batch 115
 
 [![GitHub](https://img.shields.io/badge/GitHub-venkatasriharika--code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkatasriharika-code)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Venkata%20Sriharika-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkata-sriharika-prathipati-b9491b300)
@@ -231,4 +229,3 @@ Machine Learning Intern — Horizon Intern | Batch 115
 
 ---
 
-*Built as part of the Horizon Intern Virtual Internship Program — Machine Learning Domain, Batch 115*
